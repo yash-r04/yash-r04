@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yashaswini C Rao
-- 👀 I’m currently a beginner to programing
+- 👀 I’m currently a beginner to programming
 - 🌱 I’m a first year CSE student
 - 👩‍💻 Right now I'm learning Python and know a bit of C 
 
