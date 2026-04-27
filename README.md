@@ -13,9 +13,8 @@
 
 ### ✦ CS Engineer · AI/ML Builder · Edge AI Enthusiast ✦
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yashaswini-c-rao)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-r04)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashaswinirao12@gmail.com)
 
 </div>
@@ -27,10 +26,9 @@
 │                                                                 │
 │   > whoami                                                      │
 │                                                                 |
-│   Yashaswini C Rao — B.Tech CSE @ UVCE Bengaluru  [9.1 CGPA]    │
-│   Building things that work, not just things that demo.         │
-│                                                                 │
-│   Backend ──► IoT ──► AI/ML ──► Edge ──► ???                    │
+│   Yashaswini C Rao                                              |
+|   B.Tech CSE @ UVCE Bengaluru                                   │
+│   Building things out fo curiosity :))                          │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
